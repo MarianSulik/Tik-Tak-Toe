@@ -3,7 +3,7 @@
     a) if 'q' quit program
     b) if valid input (exclude str for example 'kk')/isnumeric?
     c) change input from str to int
-    c) if range 1 - 9
+    c) if range 1 -- 9
     d) check if position was taken
 
 2. put player position on board
